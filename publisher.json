@@ -1,5 +1,6 @@
 {
   "sebastian": {
+    "offerUrl": "https://bikiraibn.com/?a=1991&c=9669",
     "publisher": {
       "name": "Sebastian Lege",
       "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
@@ -7,9 +8,11 @@
     },
     "text": [
       "Hört mal zu, Leute.",
-      "Viele von euch fragen mich genervt: „Sebastian, wie hast du das verdammt nochmal hingekriegt – 22 Kilo in zwei Monaten runter, ohne Hungern und ohne dass der Jo-Jo-Effekt dich wieder hochzieht?“",
-      "Meine klare Antwort: Ich war früher genau wie ihr. Diäten, Spritzen, teure Kuren – alles ausprobiert, alles gescheitert. Der Stoffwechsel schläft ein, nachts kommt der Heißhunger, und nach kurzer Zeit bist du wieder am Start.",
-      "Dann kam {{offer:MedicGLP}}. Und das hat alles verändert.",
+      "Viele von euch fragen mich genervt: „Sebastian, wie hast du das verdammt nochmal hingekriegt – 22 Kilo in zwei Monaten runter, ohne Hungern und ohne dass der Jo-Jo-Effekt dich wieder hochzieht?“ Meine klare Antwort: Ich war früher genau wie ihr. Diäten, Spritzen, teure Kuren – alles ausprobiert, alles gescheitert. Der Stoffwechsel schläft ein, nachts kommt der Heißhunger, und nach kurzer Zeit bist du wieder am Start.",
+      {
+        "type": "highlight",
+        "text": "Dann kam {{offer:MedicGLP}}. Und das hat alles verändert."
+      },
       {
         "type": "guarantee",
         "text": "Wir garantieren Ihnen, dass Sie in 3 Wochen 10 kg abnehmen werden. Die Wirkung wurde in klinischen Studien mit 27.000 Frauen und Männern zwischen 18 und 75 Jahren zweifelsfrei bestätigt."
@@ -17,27 +20,42 @@
       "Ich habe es selbst getestet: Mein Stoffwechsel läuft jetzt 24 Stunden am Tag – auch nachts im Schlaf. Der Körper verbrennt weiter Fett, während ich ruhe. Das Ergebnis bei mir: 22 kg in zwei Monaten – und ich habe weiter normal gegessen und gekocht.",
       {
         "type": "image",
-        "src": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
+        "src": "https://sebastian.ferys2323.workers.dev/assets/static/f259a69af89e0386d39ed0d4b7d74dac/1fbcb98c2a25af5758376526f1d41ec1/static/357_0129.png",
         "alt": "Vorher Nachher Vergleich",
         "priority": "high"
       },
       "Schaut genau hin. Links der alte Sebastian mit dem ständigen Kampf gegen den Bauch. Rechts: 22 Kilo leichter, energiegeladener, ohne Quälerei. Der Unterschied ist brutal einfach: 24-Stunden-Fettverbrennung – rund um die Uhr, auch während du schläfst.",
       {
         "type": "image",
-        "src": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800&auto=format&fit=crop&q=80",
-        "alt": "Food-Experte Inspektion"
+        "src": "https://sebastian.ferys2323.workers.dev/assets/static/f259a69af89e0386d39ed0d4b7d74dac/1fbcb98c2a25af5758376526f1d41ec1/static/357_114512341.png",
+        "alt": "Sebastian Lege Food-Experte"
       },
       "Als Food-Experte, der die Diät-Industrie seit Jahren auseinandernimmt, war ich zuerst extrem skeptisch. Aber ich habe die Formel genau unter die Lupe genommen – und sie hat mich überzeugt.",
       {
         "type": "image",
-        "src": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=800&auto=format&fit=crop&q=80",
-        "alt": "MedicGLP Produkt"
+        "src": "https://sebastian.ferys2323.workers.dev/assets/static/f259a69af89e0386d39ed0d4b7d74dac/1fbcb98c2a25af5758376526f1d41ec1/static/357_00003.png",
+        "alt": "MedicGLP Kapseln"
       },
       "Jeden Abend nur eine Kapsel vor dem Schlafengehen – fertig. Kein Aufwand, keine Kompromisse.",
       {
+        "type": "image",
+        "src": "https://sebastian.ferys2323.workers.dev/assets/static/f259a69af89e0386d39ed0d4b7d74dac/1fbcb98c2a25af5758376526f1d41ec1/static/357_114512339.jpg",
+        "alt": "MedicGLP 24-Stunden-Formel"
+      },
+      "MedicGLP – Die 24-Stunden-Fettverbrennungs-Waffe\nDie hochdosierte Duo-Formel zwingt deinen Stoffwechsel, nie abzuschalten:\n\n• L-Carnitin + Matcha-Extrakt (EGCG): Transportiert Fett in die Zellen und kurbelt die Thermogenese an – mehr Kalorienverbrauch, auch nachts im Schlaf.\n• Spirulina + Apfelessig-Extrakt: Brutales Sättigungsgefühl und stabiler Blutzucker – Heißhungerattacken werden massiv reduziert.\n• L-Arginin + Zink: Bessere Durchblutung, Sauerstoffversorgung und Enzymaktivität – der Motor läuft 24 Stunden auf Hochtouren.",
+      "Tagsüber verbrennst du aktiv. Nachts repariert und verbrennt dein Körper weiter. Deshalb reicht eine Kapsel direkt vor dem Schlafen – und morgens wachst du auf, als hätte dein Stoffwechsel Überstunden gemacht.",
+      "2 Monate – 22 kg runter.",
+      "Und das Allerbeste: Der Effekt hält an. Kein Jo-Jo, kein Rückfall. Ich verspreche dir nichts, was ich nicht selbst erlebt habe. Aber wenn du endlich einen Stoffwechsel willst, der wirklich rund um die Uhr arbeitet – auch während du schläfst – dann ist {{offer:MedicGLP}} die Lösung.",
+      {
+        "type": "guarantee",
+        "text": "60-Tage-Geld-zurück-Garantie\n\nTeste es komplett risikofrei. Wenn du nach 60 Tagen nicht spürst, dass dein Stoffwechsel 24 Stunden am Tag brennt und du echte Fortschritte siehst, bekommst du dein Geld 100 % zurück. Keine Fragen gestellt."
+      },
+      "Willst du endlich Ergebnisse, die halten – mit einer Garantie, die wirklich etwas wert ist?",
+      {
         "type": "cta",
-        "text": "Jetzt {{offer:CoreGLP mit 60-Tage-Garantie}} testen"
-      }
+        "text": "Jetzt {{offer:CoreGLP mit 60-Tage-Garantie}} testen →"
+      },
+      "Schreibt mir ehrlich in die Kommentare: Hat euer Stoffwechsel nachts auch immer abgeschaltet? Welche „Wundermittel“ haben euch bisher enttäuscht?\n\n(Ich lese jeden einzelnen Kommentar. Der Bereich ist 2 Stunden offen, ich schaue später noch rein.)"
     ],
     "comments": [
       {
