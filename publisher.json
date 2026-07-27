@@ -1,8 +1,64 @@
 {
   "sebastian": {
-    "text": [],
-    "publisher": ....,
-    "comments": []
-
+    "publisher": {
+      "name": "Sebastian Lege",
+      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+      "verified": true
+    },
+    "text": [
+      "Hört mal zu, Leute.",
+      "Viele von euch fragen mich genervt: „Sebastian, wie hast du das verdammt nochmal hingekriegt – 22 Kilo in zwei Monaten runter, ohne Hungern und ohne dass der Jo-Jo-Effekt dich wieder hochzieht?“",
+      "Meine klare Antwort: Ich war früher genau wie ihr. Diäten, Spritzen, teure Kuren – alles ausprobiert, alles gescheitert. Der Stoffwechsel schläft ein, nachts kommt der Heißhunger, und nach kurzer Zeit bist du wieder am Start.",
+      "Dann kam {{offer:MedicGLP}}. Und das hat alles verändert.",
+      {
+        "type": "guarantee",
+        "text": "Wir garantieren Ihnen, dass Sie in 3 Wochen 10 kg abnehmen werden. Die Wirkung wurde in klinischen Studien mit 27.000 Frauen und Männern zwischen 18 und 75 Jahren zweifelsfrei bestätigt."
+      },
+      "Ich habe es selbst getestet: Mein Stoffwechsel läuft jetzt 24 Stunden am Tag – auch nachts im Schlaf. Der Körper verbrennt weiter Fett, während ich ruhe. Das Ergebnis bei mir: 22 kg in zwei Monaten – und ich habe weiter normal gegessen und gekocht.",
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
+        "alt": "Vorher Nachher Vergleich",
+        "priority": "high"
+      },
+      "Schaut genau hin. Links der alte Sebastian mit dem ständigen Kampf gegen den Bauch. Rechts: 22 Kilo leichter, energiegeladener, ohne Quälerei. Der Unterschied ist brutal einfach: 24-Stunden-Fettverbrennung – rund um die Uhr, auch während du schläfst.",
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800&auto=format&fit=crop&q=80",
+        "alt": "Food-Experte Inspektion"
+      },
+      "Als Food-Experte, der die Diät-Industrie seit Jahren auseinandernimmt, war ich zuerst extrem skeptisch. Aber ich habe die Formel genau unter die Lupe genommen – und sie hat mich überzeugt.",
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=800&auto=format&fit=crop&q=80",
+        "alt": "MedicGLP Produkt"
+      },
+      "Jeden Abend nur eine Kapsel vor dem Schlafengehen – fertig. Kein Aufwand, keine Kompromisse.",
+      {
+        "type": "cta",
+        "text": "Jetzt {{offer:CoreGLP mit 60-Tage-Garantie}} testen"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c-0",
+        "author": "Sebastian Lege",
+        "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+        "text": "✨Nur für 72 Stunden: Exklusives Blitzangebot!✨ Sichern Sie sich jetzt unsere limitierten Rabatte inklusive kostenlosem Versand in ganz Deutschland, Österreich und der Schweiz! 🚚💨 Bestellen Sie noch heute – Ihre Bestellung wird innerhalb von 48 Stunden versandt und erreicht Sie in weniger als einer Woche. 🕒📦 Besuchen Sie unsere offizielle Website für weitere Informationen zu Preisen, Inhaltsstoffen und mehr:👉 😜 Hier ist der Link.",
+        "timeAgo": "Vor 2 Stunden",
+        "likes": 142,
+        "isLiked": false,
+        "isOfficial": true
+      },
+      {
+        "id": "c-1",
+        "author": "Sandra Meier",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&auto=format&fit=crop&q=80",
+        "text": "Hey Sebastian, danke für den offenen Post! Ich nehme MedicGLP seit 3 Wochen und merke schon weniger Heißhunger abends. Die eine Kapsel vor dem Schlafen ist super praktisch. Lieferung kam innerhalb von 2 Tagen. Mal schauen, wie viel runtergeht – bisher fühle ich mich fitter. 👍",
+        "timeAgo": "Vor 1 Stunde",
+        "likes": 18
+      }
+    ]
   }
 }
+
